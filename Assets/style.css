@@ -10,7 +10,7 @@ textarea {
   background: transparent;
   border: none;
   resize: none;
-  color: rgb(233, 14, 14);
+  color: rgb(13, 13, 14);
   font-size: 20px;
   border-left: 1px solid black;
   padding: 10px;
@@ -68,7 +68,7 @@ textarea {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #f8917e;
+  background-color: #cdf87e;
   color: rgb(131, 233, 231);
 }
 
